@@ -6,8 +6,8 @@ The aim is to detect sarcasm in comments found on Reddit, using the Sarcasm on R
 
 Dataset Source: https://www.kaggle.com/datasets/danofer/sarcasm
 
-This dataset contains 1.3 million Sarcastic comments from the Internet commentary website Reddit.This is a balanced dataset. 
-Attribute Information:
+This dataset contains 1.3 million Sarcastic comments from the Internet commentary website Reddit.This is a balanced dataset.<br />
+**Attribute Information:**
 
 label: If comment is Sarcastic or not<br />
 comment: The comment for which we need to determine if its sarcastic or not<br />
